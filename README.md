@@ -45,21 +45,21 @@ Este é um sistema de registro de usuários para Pangya, que inclui confirmaçã
 
 5. **Execute o servidor local:**
 
-Inicie seu WampServer ou configuração de servidor local.
+   Inicie seu WampServer ou configuração de servidor local.
 
 ## Uso
 
 1. **Acesse o formulário de registro:**
 
-Abra o seu navegador e navegue até http://seudominio.com/caminho-para-seu-projeto.
+   Abra o seu navegador e navegue até http://seudominio.com/caminho-para-seu-projeto.
 
 2. **Preencha o formulário de registro:**
 
-Complete o formulário com as informações necessárias e resolva o reCAPTCHA.
+   Complete o formulário com as informações necessárias e resolva o reCAPTCHA.
 
 3. **Confirmação por e-mail:**
 
-Verifique seu e-mail para o link de confirmação e clique nele para ativar sua conta.
+   Verifique seu e-mail para o link de confirmação e clique nele para ativar sua conta.
 
 ## Solução de Problemas
 
