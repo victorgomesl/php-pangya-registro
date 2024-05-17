@@ -1,6 +1,6 @@
-# Sistema de Registro Pangya
+# Sistema de Registro Pangya Season 8.9
 
-Este é um sistema de registro de usuários para Pangya, que inclui confirmação por e-mail (JWT) e integração com o Google reCAPTCHA v2 para maior segurança. O sistema é construído usando PHP, Microsoft SQL Server e PHPMailer para envio de e-mails.
+Este é um sistema de registro de usuários para Pangya Season 8.9, que inclui confirmação por e-mail (JWT) e integração com o Google reCAPTCHA v2 para maior segurança. O sistema é construído usando PHP, Microsoft SQL Server e PHPMailer para envio de e-mails.
 
 ## Funcionalidades
 
