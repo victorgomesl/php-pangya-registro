@@ -1,6 +1,6 @@
 # Sistema de Registro Pangya
 
-Este é um sistema de registro de usuários para Pangya, que inclui confirmação por e-mail e integração com o Google reCAPTCHA v2 para maior segurança. O sistema é construído usando PHP, Microsoft SQL Server e PHPMailer para envio de e-mails.
+Este é um sistema de registro de usuários para Pangya, que inclui confirmação por e-mail (JWT) e integração com o Google reCAPTCHA v2 para maior segurança. O sistema é construído usando PHP, Microsoft SQL Server e PHPMailer para envio de e-mails.
 
 ## Funcionalidades
 
@@ -33,11 +33,11 @@ Este é um sistema de registro de usuários para Pangya, que inclui confirmaçã
 
 3. **Configure o config.php:**
 
-Edite o arquivo config.php para definir suas configurações de banco de dados, e-mail e reCAPTCHA.
+   Edite o arquivo config.php para definir suas configurações de banco de dados, e-mail e reCAPTCHA.
 
 4. **Atualize o HTML para o Google reCAPTCHA:**
 
-Adicione sua chave de site reCAPTCHA ao formulário HTML em index.html:
+   Adicione sua chave de site reCAPTCHA ao formulário HTML em index.html:
 
    ```sh
    <div class="g-recaptcha" data-sitekey="SUA_SITE_KEY_DO_RECAPTCHA"></div>
